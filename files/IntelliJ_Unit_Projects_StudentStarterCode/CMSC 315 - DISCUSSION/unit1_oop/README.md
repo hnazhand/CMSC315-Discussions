@@ -23,7 +23,7 @@ Complete all TODO sections in the source code:
 5. Create and test objects in `main()`.
 6. Add a student-created extension.
 
-Implementation
+**Implementation**
 
 I have defined a class called ParentClass which will store common data among all objects. There are three class variables called category, and two instance variables called name and age. A constructor is used to assign value to the instance data whereas display_info() method displays details about each object.
 
