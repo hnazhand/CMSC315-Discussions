@@ -19,6 +19,14 @@ This assignment examines insertion, deletion, and searching in Python lists.
 4. Demonstrate edge cases.
 5. Create a real-world scenario.
 
+## Implementation Documentation
+
+I practiced adding, removing, and discovering information using Python lists for this project. I developed functions that let me add and remove data at various locations while verifying the validity of the index. Additionally, I developed a search function that searched the list for a particular value. 
+
+One thing I discovered is that an item's location can impact the amount of work the computer must perform. The other values may need to shift if something is added or removed close to the start of a list. I also discovered the significance of testing scenarios like an invalid index or an unfound value.
+
+I was able to comprehend the importance of selecting the appropriate data structure thanks to the assignment. These variations might not be apparent for smaller lists, but frequent insertions, deletions, and searches can have an impact on an application's speed when dealing with greater volumes of data. When determining how data should be managed and kept in a real-world software, this information can be useful.
+
 ## Discussion Board Reflection
 
 After completing the programming assignment, add this reflection to your initial discussion post in LEO.
